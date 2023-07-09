@@ -1,0 +1,8 @@
+{
+    "name": "auto-scaling-test",
+    "verson": "1.0.0",
+    "author": "paw",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
